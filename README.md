@@ -1,4 +1,4 @@
-# HelpMate AI Project GenAI UpGrad IIITB
+# RAG Legal Docs Deep Learning IIITB
 Simplifying insurance document queries with the power of Retrieval-Augmented Generation (RAG) and OpenAI's GPT models.
 
 [![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
